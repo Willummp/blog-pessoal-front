@@ -1,0 +1,10 @@
+.cursor {
+    cursor: pointer;
+    color: white;
+}
+.text-decoration-none {
+    text-decoration: none;
+}
+#navbar_id{
+   background-color: rgb(30, 75, 75);
+}
